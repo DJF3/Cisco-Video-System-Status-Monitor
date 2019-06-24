@@ -21,7 +21,9 @@ Display the status of a Cisco video system on a tablet/computer/screen (outside 
 # What does it do?
 
 Overview
-<img width="880" alt="image" src="https://user-images.githubusercontent.com/4991841/60021749-d259c180-9692-11e9-900c-14eb8feab7e9.png">
+
+![Overview](https://user-images.githubusercontent.com/4991841/60021749-d259c180-9692-11e9-900c-14eb8feab7e9.png)
+
 
 
 
