@@ -11,6 +11,8 @@ Display the status of a Cisco video system on a tablet/computer/screen (outside 
 
 [How does it work?](#how)
 
+[FYI](#fyi)
+
 [Roadmap](#roadmap)
 
 [Feedback & Support](#feedback)
@@ -121,6 +123,17 @@ What happens when you deploy this code?
 <br>
 
 <img width="885" alt="image" src="https://user-images.githubusercontent.com/4991841/60022027-5318bd80-9693-11e9-9b64-213ff6e0845e.png">
+
+
+
+<br>
+<br>
+<br>
+
+<a name="fyi"/>
+
+# FYI
+* jquery.min.js is included in order to minimize dependencies. You can use the Google hosted jquery.min.js by changing the 'script src' link on line 20 to: ``` https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js ```
 
 
 <br>
