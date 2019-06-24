@@ -37,8 +37,8 @@ Overview
 | -------------: | ------------- |
 | Call detect  | All devices  |
 | People count  | SX80 RoomKit/Mini CodecPlus CodecPro Room55 Room70/Room55D Room70G2 |
-| People presence  | SX80 RoomKit/Mini CodecPlus CodecPro Room55 Room70/Room55D Room70G2 _plus_ SX20 MX200G2/MX300G2 MX700/MX800/MX800D 
-  |
+| People presence  | SX80 RoomKit/Mini CodecPlus CodecPro Room55 Room70/Room55D Room70G2 _plus_ SX20 MX200G2/MX300G2 MX700/MX800/MX800D |
+
 
 
 
@@ -132,7 +132,7 @@ What happens when you deploy this code?
 # Roadmap
 * Make the background and text placement/formatting easy to customize
 * Include jQuery to remove internet access dependency
-* Dashboard that displays the status for multiple meetingrooms. (Remove people count and only use people presence? i.e. do we care about the number of people?)
+* Dashboard that displays the status for multiple meetingrooms. (Remove people count and only use _people presence_? (do we care about _the number of people_?)
 
 
 <a name="feedback"/>
