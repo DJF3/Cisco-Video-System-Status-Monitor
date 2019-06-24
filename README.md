@@ -34,7 +34,7 @@ Overview
 # Requirements
 
 * PHP  (tested with PHP 7.2, but should work with 5.x)
-* Video system firmware CE 9.2 or higher
+* Video system firmware CE 9.6.1 or higher
 * Features supported per device: see table:
 
 | Feature  | Supported Devices |
