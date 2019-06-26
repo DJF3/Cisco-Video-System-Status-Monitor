@@ -135,7 +135,7 @@ What happens when you deploy this code?
 <a name="fyi"/>
 
 # FYI
-* jquery.min.js is included in order to minimize dependencies. You can use the Google hosted jquery.min.js by changing the 'script src' link on line 20 to: ``` https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js ```
+* jquery.min.js is included in order to minimize public internet connectivity dependency. You can use the Google hosted jquery.min.js by changing the 'script src' link on line 20 to: ``` https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js ```
 
 
 <br>
