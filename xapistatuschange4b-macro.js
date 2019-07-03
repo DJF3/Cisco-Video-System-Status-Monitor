@@ -33,7 +33,7 @@ function goprintname(txt) {
 
 
 // CALL status
-xapi.status.on('SystemUnit State NumberOfInProgressCalls', (numberofcalls) => postStatusCall("calls", myRoomName, numberofcalls));
+xapi.status.on('SystemUnit State NumberOfActiveCalls', (numberofcalls) => postStatusCall("calls", myRoomName, numberofcalls));
 // PEOPLE count status
 xapi.status.on('RoomAnalytics PeopleCount Current', (numberofpeople)  => postStatusCall("count", myRoomName, numberofpeople));
 // PEOPLE presence
