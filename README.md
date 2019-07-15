@@ -145,9 +145,11 @@ What happens when you deploy this code?
 <a name="roadmap"/>
 
 # Roadmap
-* Make the background and text placement/formatting easy to customize
-* Include jQuery to remove internet access dependency
-* Dashboard that displays the status for multiple meetingrooms. (Remove people count and only use _people presence_? (do we care about _the number of people_?)
+* Add status 'occupied' - not in call but with people present (coming in 0.4d)
+* Add non-demo mode, only showing the status screen without background image (coming in 0.4d)
+* Include both NumberOfActiveCalls and NumberOfInProgressCalls to capture both call-setup and in-call status (coming in 0.4d)
+* Include jQuery to remove internet access dependency (coming in 0.4d)
+* Dashboard that displays the status for multiple meetingrooms. (Remove people count and only use _people presence_? (do we care about _the number_ of people?)
 
 
 <a name="feedback"/>
